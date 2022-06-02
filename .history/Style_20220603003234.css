@@ -1,0 +1,105 @@
+body{
+    background-image: linear-gradient(90deg, rgb(0, 1, 32) , black , rgb(0, 1, 32))
+}
+
+.headtitle{
+    color: #fff;
+    font-family: Montserrat;
+    text-shadow: 2px 2px 5px rgb(0, 140, 255);
+    text-align: center;
+    font-size: 50px;
+}
+
+.logoimg{
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+
+.headrule{
+    color: aliceblue;
+    width: 98%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(228, 255, 255);
+}
+
+.hititle{
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 17pt;
+}
+
+.welcomeprbox{
+    border-width: 10px;
+    border-color: antiquewhite;
+}
+
+.welcomepreng{
+    text-align: justify;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+.welcomeprsin{
+    text-align: justify;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+.whoismsrox{
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17pt;
+}
+
+.iframemsroxlkintro{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    color: #fff;
+}
+
+.roxinfopr{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    text-align: justify;
+}
+
+.roxcontactab{
+    width: 50%;
+    color: #fff;
+}
+
+.roxcontents{
+    color:#fff
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-container {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+
+.section-log {
+    width: 50%;
+}
+
+.section-desc {
+    width: 50%;
+    padding: 2rem;
+}
